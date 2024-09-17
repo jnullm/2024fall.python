@@ -130,7 +130,7 @@ print(num[0]*num[1])
 
 
 
-代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
+代码运行截图 ![示例图片]{assignment1/Theatre Square.png}
 
 
 
