@@ -32,7 +32,7 @@ else:
 
 
 
-![1](https://github.com/jnullm/img/blob/main/202409171947429.png)
+![](https://github.com/jnullm/img/blob/main/202409171947429.png)
 
 
 
@@ -63,7 +63,7 @@ else:
 
 
 
-代码运行截图 ==（至少包含有"Accepted"）==
+![](https://github.com/jnullm/img/blob/main/202409171946374.png)
 
 
 
@@ -94,7 +94,8 @@ else:
 
 
 
-代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
+![](https://github.com/jnullm/img/blob/main/202409171947428.png)
+
 
 
 
@@ -130,7 +131,7 @@ print(num[0]*num[1])
 
 
 
-代码运行截图 ![示例图片](assignment1/Theatre Square.png)
+![](https://github.com/jnullm/img/blob/main/202409171947427.png)
 
 
 
@@ -169,7 +170,7 @@ for i in range(0,len(s1)):
 
 
 
-代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
+![](https://github.com/jnullm/img/blob/main/202409171947426.png)
 
 
 
@@ -205,4 +206,4 @@ print(N)
 
 
 
-代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
+![](https://github.com/jnullm/img/blob/main/202409171947425.png)
