@@ -32,7 +32,7 @@ else:
 
 
 
-代码运行截图 ![示例图片][判断闰年.png]
+代码运行截图 ![示例图片](github.com/2024.python/assignment1/判断闰年.png)
 
 
 
