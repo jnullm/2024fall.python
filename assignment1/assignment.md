@@ -32,7 +32,7 @@ else:
 
 
 
-![11](2024.python/assignment1/判断闰年.png)
+![](202409171947429.png)
 
 
 
