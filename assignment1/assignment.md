@@ -32,7 +32,7 @@ else:
 
 
 
-![1](https://github.com/jnullm/img/202409171947429.png)
+![1](https://github.com/img/202409171947429.png)
 
 
 
